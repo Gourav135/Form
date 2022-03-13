@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "5mVlJxlMdX2U5l1g9nYqN",
+      "name": "dasd",
+      "age": "432",
+      "address": "P ext-1 H no. 25 Mohan Garden, Uttam Nagar New Delhi-59",
+      "department": "Production",
+      "salary": "120000",
+      "martial_status": true
+    },
+    {
+      "id": "RR4pzgHkECgTpwVxy1lLT",
+      "name": "SOURAV SHARMA",
+      "age": "234",
+      "address": "P ext-1 H no. 25 Mohan Garden, Uttam Nagar New Delhi-59",
+      "department": "Production",
+      "salary": "4324",
+      "martial_status": false
+    },
+    {
+      "id": "QrDLEBjTICDpFG-cckhnW",
+      "name": "SOURAV SHARMA",
+      "age": "",
+      "address": "P ext-1 H no. 25 Mohan Garden, Uttam Nagar New Delhi-59",
+      "department": "",
+      "salary": "",
+      "martial_status": true
+    }
+  ]
+}
